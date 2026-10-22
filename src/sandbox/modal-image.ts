@@ -10,8 +10,8 @@ const PYTHON_PACKAGES = [
   "pypdf==6.19.0",
   "python-docx==1.2.0",
 ];
-const UV_VERSION = "0.12.19";
-const UV_SHA256 = "23bf5552d220e0842b65c862097b2ebaeba0064b74eda5e565e77fd25969d8c8";
+const UV_VERSION = "0.13.4";
+const UV_SHA256 = "2b428396f12572d4429cf210ca234dd599a33b3af0958a4d5ed569d63e3f344f";
 const AWSCLI_VERSION = "2.34.54";
 const AWSCLI_SHA256 = "de278754dec97e0f6e9b4e8167d4bd1a27004c3e56e9c2da10002597f76ca35a";
 export const MODAL_DEFAULT_IMAGE_SETUP =

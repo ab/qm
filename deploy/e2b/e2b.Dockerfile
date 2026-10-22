@@ -9,7 +9,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   && node --version && npm --version
 
 RUN npm install -g --allow-scripts=@anthropic-ai/claude-code \
-      @anthropic-ai/claude-code@2.1.210 \
+      @anthropic-ai/claude-code@2.1.303 \
       @openai/codex@0.144.4 \
   && claude --version \
   && codex --version
